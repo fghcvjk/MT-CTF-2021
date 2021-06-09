@@ -1,0 +1,1 @@
+提交的flag格式：flag{echo Password|md5sum} （注意echo是会输出\n）
